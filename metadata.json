@@ -1,0 +1,5 @@
+{
+  "name": "TabiPlan - 智能旅行日程规划工具",
+  "description": "一个支持拖拽操作和 AI 自动生成主题的个性化旅行日程规划工具。",
+  "requestFramePermissions": []
+}
